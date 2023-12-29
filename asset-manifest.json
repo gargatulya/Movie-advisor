@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movie-advisor/static/css/main.0d7798fc.css",
+    "main.js": "/Movie-advisor/static/js/main.2845e0b0.js",
+    "index.html": "/Movie-advisor/index.html",
+    "main.0d7798fc.css.map": "/Movie-advisor/static/css/main.0d7798fc.css.map",
+    "main.2845e0b0.js.map": "/Movie-advisor/static/js/main.2845e0b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d7798fc.css",
+    "static/js/main.2845e0b0.js"
+  ]
+}
